@@ -13,6 +13,6 @@ npm init -y
 npm i express cors morgan http-status mongoose dotenv
 
 yarn dev
-
+ npm i jsonwebtoken bcryptjs
 install nodemon
 
