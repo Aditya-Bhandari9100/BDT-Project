@@ -7,6 +7,8 @@ npm i
 
 yarn dev
 
+npm i @reduxjs/toolkit react-redux react-icons
+
 Backend SetUp
 npm init -y
 
